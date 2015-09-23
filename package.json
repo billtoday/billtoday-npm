@@ -1,6 +1,6 @@
 {
   "name": "billtoday",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "npm plugin for access to the bill.today API.",
   "main": "index.js",
   "scripts": {
